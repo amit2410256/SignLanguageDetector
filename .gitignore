@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# TensorFlow
+models/*.h5
+models/*.keras
+
+# Node
+node_modules/
+
+# Java
+target/
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
